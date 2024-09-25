@@ -40,6 +40,9 @@ The data was provided as an **SQL file**, which was imported into a MySQL server
 - Identified the top-performing customers and markets by sales revenue.
 - Revenue trends analysis enabled better decision-making for cost control and optimizing sales strategies.
 - The slicer in Power BI provides a dynamic way to explore the dataset by date.
+  
+## Dashboard Screenshot
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/393b854f-747f-4d5c-aa91-cf59a42ad420">
 
 
 ## How to Use
